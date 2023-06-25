@@ -1,0 +1,24 @@
+Data Types:
+
+18:41 25-06-2023
+Operators:
+
+What are the arithmetic operators in Python?
+How do you perform floor division and modulus in Python?
+Explain the difference between "==" and "is" operators in Python.
+What is the ternary operator in Python and how is it used?
+How can you concatenate two strings in Python?
+Conditional Statements:
+
+Explain the syntax and usage of the if-else statement in Python.
+What is the difference between "==" and "is" when used in conditional statements?
+How do you use the "elif" statement in Python?
+What is the purpose of the "pass" statement in Python?
+How can you write nested if-else statements in Python?
+Looping Statements:
+
+What are the different types of loops available in Python?
+How do you break out of a loop prematurely in Python?
+Explain the usage of "continue" statement in a loop.
+What is the difference between "range()" and "xrange()" in Python?
+How can you iterate over a dictionary using a loop in Python?
